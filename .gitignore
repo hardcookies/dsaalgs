@@ -1,0 +1,3 @@
+# Ignore a.out file
+*.out
+.DS_Store
